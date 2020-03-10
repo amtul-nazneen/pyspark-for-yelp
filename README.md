@@ -8,7 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Softwares/SDKs
 1. Jdk 1.8.0
 2. PyCharm
-3. Spark Setup
+3. Anaconda
+4. Spark Setup
 
 
 ### Steps to Run
